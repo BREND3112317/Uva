@@ -36,21 +36,6 @@ void addPoint(int x,int y){
 }
 
 int main(){
-    /*
-    n=4,m=4;
-    string map[4];
-    map[0] = "*...";
-    map[1] = "....";
-    map[2] = ".*..";
-    map[3] = "....";
-    */
-    /*
-    n=3,m=5;
-    string map[3];
-    map[0] = "**...";
-    map[1] = ".....";
-    map[2] = ".*...";
-    */
 
     while(cin>>n>>m){
         if(n==0 && m==0)break;
